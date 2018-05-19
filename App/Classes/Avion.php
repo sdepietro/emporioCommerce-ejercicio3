@@ -1,12 +1,11 @@
 <?php
+
 namespace App\Classes;
-
-
 
 use App\Interfaces\Aceite;
 use App\Interfaces\Motor;
 
-class Auto implements Motor
+class Avion implements Motor
 {
     private $encendido = false;
 

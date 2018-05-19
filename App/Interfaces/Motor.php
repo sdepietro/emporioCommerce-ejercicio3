@@ -1,8 +1,6 @@
 <?php
 namespace App\Interfaces;
 
-use App\Classes\Aceite;
-
 interface Motor
 {
     public function encender();
